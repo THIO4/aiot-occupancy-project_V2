@@ -1,0 +1,17 @@
+# Pythonin välimuistit
+__pycache__/
+*.py[cod]
+
+# Virtuaaliympäristö
+venv/
+env/
+
+# MQTT credentials
+.env
+
+# Tietokanta
+data/*.db
+data/occupancy.py
+
+# Käyttöjärjestelmän ei olennaiset tiedostot
+.DS_Store
